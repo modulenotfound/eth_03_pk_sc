@@ -1,0 +1,4 @@
+node_modules/
+blog.MD
+run.sh
+package-lock.json
